@@ -6,4 +6,4 @@
 3. <code>python main.py --image path/to/the/folder</code>
 4. Your Image properties like name, hieght width, channels, RGB colors will be recorded inside the csv folder in a CSV file.
 
-### Show some ❤️ by starring my repository!
+### Show some ❤️ by starring my repository! ![](https://visitor-badge.glitch.me/badge?page_id=idevesh.bulk-image-color-finding&style=flat-square&color=0088cc)
